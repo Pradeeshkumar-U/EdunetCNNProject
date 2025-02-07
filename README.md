@@ -1,4 +1,7 @@
-# Week2
-Edunet Internship week 2 assignment
+# Final Project
+Edunet Internship final week assignment
 
-I have attached my Dataset folder along with my Main.ipynb file which is the file i have used to visualize the given Training dataset and I also added a new folder with some sample pictures for testing the model and it quite works well
+hello !
+I'm very glad that the model that I have made works pretty well and it's accuracy scores are good
+Also I have learnt about streamlit and how to deploy my project in streamlit and it's quite interesting 
+A special thanks for the Mentor of this Project
