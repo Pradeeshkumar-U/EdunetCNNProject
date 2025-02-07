@@ -8,7 +8,7 @@ import time
 
 st.set_page_config(page_title="Waste Classification", page_icon="♻️", layout="wide")
 
-model = load_model('Model/waste_classifier.keras')
+model = load_model('waste_classifier.keras')
 
 # file = st.file_uploader("Upload a file", type=["jpg", "png", "csv"])
 
