@@ -37,15 +37,14 @@ if uploaded_file is not None:
             
 
         st.success(f"### 🏷️ Predicted Waste Type: **{'Organic Waste' if predicted_class==0 else 'Recyclable Waste' if predicted_class==1 else 'Unknown'}**")
-        col1, col2, col3  = st.columns([1, 3, 1]) 
-        with col1:
-            st.write(f'Confidence Level : **{math.ceil(float(predictions[0][predicted_class]))*100}%**')
 
-        with col2:
-            st.progress(float(predictions[0][predicted_class]))
+        st.write(f'Confidence Level : **{math.ceil(float(predictions[0][predicted_class]))*100}%**')
 
-        with col3:
-            st.empty()
+        # with col2:
+        #     st.progress(float(predictions[0][predicted_class]))
+
+        # with col3:
+        #     st.empty()
             
         if predicted_class == 0:
             st.info("Organic waste can be composted! ♻️")
