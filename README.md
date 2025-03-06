@@ -1,4 +1,4 @@
-![Screenshot (1)](https://github.com/user-attachments/assets/324f05de-edba-4229-9683-85fd3a8c533a)# Edunet Project
+# Edunet Project
 Edunet Skill4future Internship
 
 Project Name : Waste Classification using CNN
@@ -8,5 +8,8 @@ I'm very glad that the model that I have made works pretty well and it's accurac
 Also I have learnt about streamlit and how to deploy my project in streamlit and it's quite interesting 
 A special thanks for the Mentor of this Project
 
-![Uploading Screenshot (1).png…](![Screenshot (2)](https://github.com/user-attachments/assets/7ac6bf55-b90f-4ef8-8520-7a8e73e03dc1)
-)
+Screenshot of Code :
+https://github.com/user-attachments/assets/324f05de-edba-4229-9683-85fd3a8c533a
+
+Screenshot of Output :
+https://github.com/user-attachments/assets/7ac6bf55-b90f-4ef8-8520-7a8e73e03dc1
